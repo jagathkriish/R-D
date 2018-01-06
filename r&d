@@ -14,3 +14,8 @@ HikariCP - https://brettwooldridge.github.io/HikariCP/
 lombok
 jacoco
 gitplugin
+jhipster - http://www.jhipster.tech/
+traefik - https://traefik.io/
+consul - discovery
+Bucket4j - is a java implementation of token-bucket algorithm for rate limiting
+cloud foundry - UAA

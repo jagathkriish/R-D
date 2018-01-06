@@ -8,3 +8,9 @@ Timeseries DB:
 DalmatinerDB - https://dalmatiner.io/
 InfluxDB - https://www.influxdata.com/
 Grafana - 
+
+Spock testing framework - http://spockframework.org/
+HikariCP - https://brettwooldridge.github.io/HikariCP/
+lombok
+jacoco
+gitplugin

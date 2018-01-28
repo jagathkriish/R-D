@@ -19,3 +19,11 @@ traefik - https://traefik.io/
 consul - discovery
 Bucket4j - is a java implementation of token-bucket algorithm for rate limiting
 cloud foundry - UAA
+
+Devops:
+Zero down time deployment - Ansible, blue green , kpi measure
+Hashicorp - vault, consul, packer
+mesos: DC abstraction
+
+Processes:
+The learn startup - Continuous innovation
